@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nicholas nicholas.zhang1993@gmail.com
 
 # THANKS
 
